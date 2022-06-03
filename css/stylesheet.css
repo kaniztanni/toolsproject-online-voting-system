@@ -1,0 +1,48 @@
+
+  body{
+    text-align: center;
+    background-color:#3498db;
+    background-image: url("../image/Online.voting.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 45%;
+     }
+
+h1{
+   color: blue;
+   }
+a{
+  color:blue;
+  font-size:20px;
+}
+
+#log{
+  background-color:lightgray;
+	 border: 10px solid lightgreen;
+     width:390px;
+	 height:390px;
+   margin:auto;
+	 margin-top:300px;
+	 padding-bottom:12px;
+}
+input 
+{
+  padding:10px;
+  border-radius: 5px;
+}
+#dropbox
+{
+    padding:10px;
+    border-radius: 5px;
+    width: 52%; 
+}
+#loginbtn {
+  width:20%;
+  background-color: #3498db;
+  color: white;
+  padding: 10px;
+   font-size: 15px;
+  border-radius: 5px;
+
+}
+
+
